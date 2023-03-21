@@ -1,6 +1,7 @@
 /* 
 	TODO:
 		- insert
+		- deletion
 		- testing
  */
 
